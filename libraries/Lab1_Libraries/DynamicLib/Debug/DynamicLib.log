@@ -1,0 +1,4 @@
+﻿  bubbleSortDynamic.cpp
+D:\CPP Projects\libraries\Lab1_Libraries\DynamicLib\bubbleSortDynamic.cpp(3,48): warning C4273: bubbleSortDynamic: несовместимое связывание dll
+D:\CPP Projects\libraries\Lab1_Libraries\DynamicLib\bubbleSortDynamic.h(7,25): message : см. предыдущее определение "bubbleSortDynamic"
+  DynamicLib.vcxproj -> D:\CPP Projects\libraries\Lab1_Libraries\Debug\DynamicLib.dll

@@ -1,0 +1,39 @@
+QPushButton {
+    font: 20pt "Courier New";
+    color: #111111;
+    background-color: #667788;
+    border-width: 4px;
+    border-color: #667788;
+    border-style: solid;
+    border-radius: 16px;
+}
+
+QPushButton:hover {
+    color: #777777;
+    background-color: #565758;
+    border-color: #565758;
+}
+
+QPushButton:pressed {
+    color: #999999;
+    background-color: #353637;
+    border-color: #353637;
+    border-width: 1px;
+}
+
+QLineEdit {
+    font: 20pt "Courier New";
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #999999;
+    background-color: #353637;
+    border-color: #565758;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+QLabel {
+    font: monospace "Courier New";
+    font-size: 24pt;
+    color: #999999;
+}

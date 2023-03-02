@@ -1,0 +1,10 @@
+﻿  Application.cpp
+  Array.cpp
+  Hex.cpp
+  main.cpp
+  Octal.cpp
+  OutOfRangeException.cpp
+  Создание кода...
+Application.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Octal::Octal(void)" (??0Octal@@QAE@XZ) в функции "private: void __thiscall Application::OctalTest(void)" (?OctalTest@Application@@AAEXXZ).
+Octal.obj : error LNK2001: неразрешенный внешний символ "public: __thiscall Octal::Octal(void)" (??0Octal@@QAE@XZ).
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Debug\Part2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

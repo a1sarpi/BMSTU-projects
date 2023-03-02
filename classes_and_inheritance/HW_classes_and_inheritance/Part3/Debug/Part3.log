@@ -1,0 +1,20 @@
+﻿  Application.cpp
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.h(13,67): warning C4305: инициализация: усечение из "double" в "const float"
+  main.cpp
+  Money124.cpp
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(59,24): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(60,41): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(84,24): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(85,41): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(131,22): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money124.cpp(132,23): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+  Money133.cpp
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.h(13,67): warning C4305: инициализация: усечение из "double" в "const float"
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.cpp(78,24): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.cpp(79,41): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.cpp(111,24): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.cpp(112,41): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Part3\Money133.cpp(175,60): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+  Pair.cpp
+  Создание кода...
+  Part3.vcxproj -> D:\CPP Projects\classes_and_inheritance\HW_classes_and_inheritance\Debug\Part3.exe

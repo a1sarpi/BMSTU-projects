@@ -1,0 +1,72 @@
+<?xml version="1.1" encoding="windows-1251"?>
+<catalog>
+    <ExtractionMap>
+        <rule from="array" to="ObjectName"></rule>
+    </ExtractionMap>
+    <array>
+        <Email>info@mihrab.ru</Email>
+        <Address>Выползов переулок, дом 7</Address>
+        <PublicPhone>(495) 681-49-04</PublicPhone>
+        <global_id>62408188</global_id>
+        <WebSite>www.mihrab.ru</WebSite>
+        <ID>1</ID>
+        <Fax/>
+        <geoData>
+            <coordinates>37.627129999889</coordinates>
+            <coordinates>55.778998000219</coordinates>
+            <type>Point</type>
+        </geoData>
+        <District>Мещанский район</District>
+        <ObjectName>Московская Соборная мечеть</ObjectName>
+        <AdmArea>Центральный административный округ</AdmArea>
+    </array>
+    <array>
+        <Email>vopros@umma.ru</Email>
+        <Address>Минская улица, дом 2Б</Address>
+        <PublicPhone/>
+        <global_id>62408190</global_id>
+        <WebSite>www.umma.ru</WebSite>
+        <ID>3</ID>
+        <Fax/>
+        <geoData>
+            <coordinates>37.497144000161</coordinates>
+            <coordinates>55.725376999841</coordinates>
+            <type>Point</type>
+        </geoData>
+        <District>район Дорогомилово</District>
+        <ObjectName>Мемориальная мечеть</ObjectName>
+        <AdmArea>Западный административный округ</AdmArea>
+    </array>
+    <array>
+        <Address>улица Хачатуряна, дом 8</Address>
+        <PublicPhone>(499) 903-60-88</PublicPhone>
+        <global_id>62408191</global_id>
+        <WebSite>www.maginur.ru</WebSite>
+        <ID>4</ID>
+        <Fax/>
+        <geoData>
+            <coordinates>37.592932000304</coordinates>
+            <coordinates>55.856694000138</coordinates>
+            <type>Point</type>
+        </geoData>
+        <District>район Отрадное</District>
+        <ObjectName>Смежные мечети «Ярдям» и «Инам»</ObjectName>
+        <AdmArea>Северо-Восточный административный округ</AdmArea>
+    </array>
+    <array>
+        <Address>Большая Татарская улица, дом 28, строение 1,2</Address>
+        <PublicPhone>(495) 951-84-48</PublicPhone>
+        <global_id>62408194</global_id>
+        <WebSite>www.manar.ru</WebSite>
+        <ID>2</ID>
+        <Fax/>
+        <geoData>
+            <coordinates>37.632863000422</coordinates>
+            <coordinates>55.739071000116</coordinates>
+            <type>Point</type>
+        </geoData>
+        <District>район Замоскворечье</District>
+        <ObjectName>Историческая мечеть</ObjectName>
+        <AdmArea>Центральный административный округ</AdmArea>
+    </array>
+</catalog>

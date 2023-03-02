@@ -1,0 +1,6 @@
+fe_gl/.vs
+.idea
+fe_gl/cmake-build-debug
+cmake-build-debug
+*.sln
+*vcx*

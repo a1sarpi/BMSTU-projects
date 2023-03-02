@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>control_np.png</file>
+        <file>firenze_lai_np.png</file>
+        <file>george_sotter_np.png</file>
+        <file>mandalorian_np.png</file>
+        <file>romashka_np.png</file>
+        <file>valdemar_fink_np.png</file>
+        <file>william_glakens_np.png</file>
+    </qresource>
+</RCC>

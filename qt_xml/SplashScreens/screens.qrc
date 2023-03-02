@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>control_xml.png</file>
+        <file>firenze_lai_xml.png</file>
+        <file>george_sotter_xml.png</file>
+        <file>mandalorian_xml.png</file>
+        <file>romashka_xml.png</file>
+        <file>valdemar_fink_xml.png</file>
+        <file>william_glakens_xml.png</file>
+    </qresource>
+</RCC>

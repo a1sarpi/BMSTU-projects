@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>CLOSE.svg</file>
+        <file>COPE.svg</file>
+        <file>CUT.svg</file>
+        <file>HOME.svg</file>
+        <file>MAXIMIZE.svg</file>
+        <file>MINIMIZE.svg</file>
+        <file>MINUS.svg</file>
+        <file>NEW.svg</file>
+        <file>OPEN.svg</file>
+        <file>PASTE.svg</file>
+        <file>SAVE.svg</file>
+        <file>SAVEALL.svg</file>
+        <file>UP.svg</file>
+    </qresource>
+</RCC>

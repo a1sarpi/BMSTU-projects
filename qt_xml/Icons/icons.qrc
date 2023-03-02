@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>HOME.svg</file>
+        <file>BLANK.svg</file>
+        <file>CLOSE.svg</file>
+        <file>CLOSE_TAB.svg</file>
+        <file>MINUS.svg</file>
+        <file>MINIMIZE.svg</file>
+        <file>MAXIMIZE.svg</file>
+    </qresource>
+</RCC>

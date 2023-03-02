@@ -1,0 +1,120 @@
+QMenuBar {
+    font: 9pt "JetBrains Mono";
+    color: #999;
+    background-color: #222;
+    border-width: 1px;
+    border-color: #333;
+    border-style: solid;
+}
+
+QMenuBar::item::disabled {
+    font: 8pt italic "JetBrains Mono Medium";
+    color: #444;
+}
+
+QMenuBar::item:selected {
+    background: #333;
+}
+
+QMenuBar::item:pressed {
+    background: #444;
+}
+
+QTabWidget::pane{
+  background-color: transparent;
+  border-top: 1px solid #333;
+}
+
+ QTabBar::close-button {
+     image: url(:/CLOSE_TAB.svg);
+     border-width: 4px;
+     border-radius: 10px;
+     background-color: #b56562;
+ }
+
+QTabWidget::tab-bar {
+  left: 3px;
+  top: 10px;
+}
+
+QTabBar {
+  font: 9pt "JetBrains Mono";
+  color: #999;
+  background-color: #222;
+  border-top: 12px solid #333;
+}
+
+QTabBar::tab {
+    padding: 5px 30px;
+    background-color: #222;
+    border: 4px solid #333;
+    border-radius: 6px;
+}
+
+QTabBar::tab:hover {
+    background-color: #333;
+}
+
+QTabBar::tab:selected {
+    background-color: #444;
+}
+
+QMenu::item {
+    padding: 5px 30px;
+    background-color: #222;
+}
+
+QMenu::item:hover {
+    background-color: #333;
+}
+
+QMenu::item:selected {
+    background-color: #444;
+}
+
+QTreeView {
+    padding-top: 10px;
+    top: 100px;
+    font: 9pt "JetBrains Mono";
+    color: #999;
+    background-color: #222;
+}
+
+QMenu {
+    font: 9pt "JetBrains Mono";
+    color: #999;
+    background-color: #222;
+    border-width: 1px;
+    border-color: #333;
+    border-style: solid;
+}
+
+QMainWindow {
+    font: 20pt "JetBrains Mono";
+    background-color: #222;
+    border-width: 1px;
+    border-color: #333;
+}
+
+QObject[objectName^="centralwidget"] {
+    background-image: url(:/BLANK.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+QLineEdit {
+    font: 20pt "JetBrains Mono";
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #999999;
+    background-color: #353637;
+    border-color: #565758;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+QLabel {
+    font: italic "JetBrains Mono";
+    color: #444;
+}
+
